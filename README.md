@@ -38,9 +38,9 @@ I'm a high school student passionate about technology and entrepreneurship. Co-f
 
 ## 🚀 Recent Projects
 
-[![Phys.io](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=physio&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/physio)
-[![myFridge](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=myFridge&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/myFridge)
-[![Scripty](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=scripty&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/scripty)
+[![Phys.io](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=physio&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/physio)
+[![myFridge](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=myFridge&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/myFridge)
+[![Scripty](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=scripty&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/scripty)
 
 ## 📫 Let's Connect!
 
