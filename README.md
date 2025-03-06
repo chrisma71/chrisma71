@@ -26,20 +26,6 @@ I'm a high school student passionate about technology and entrepreneurship. Co-f
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## 🔥 Current Projects
-
-<a href="https://github.com/chrisma71/scripty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=scripty&theme=dark" />
-</a>
-<a href="https://github.com/chrisma71/physio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=physio&theme=dark" />
-</a>
-<a href="https://github.com/chrisma71/myFridge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=myFridge&theme=dark" />
-</a>
-
-<br />
-
 ## 🏗️ What I'm working on
 
 - Building [Scripty](https://scripty.me) - An automation platform that helps people interact with their computers using natural language
