@@ -1,11 +1,16 @@
 # 👋 Hi there, I'm Christopher Ma
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/christopher-ma-3b35aa300/))
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)]([https://devpost.com/your-devpost](https://devpost.com/chris-pengfei-ma?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-ma-3b35aa300/)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/chris-pengfei-ma?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
-## 💻 Full Stack Developer | 🚀 Startup Founder | 🏆 Hackathon Winner
+## 💻 Full Stack Developer | 🚀 Startup Founder
 
 I'm a high school student passionate about technology and entrepreneurship. Co-founder of [Scripty](https://scripty.me), an automation platform leveraging NLP to revolutionize how people interact with computers.
+
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrisma71&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisma71&layout=compact&langs_count=6&theme=radical"/>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -21,22 +26,32 @@ I'm a high school student passionate about technology and entrepreneurship. Co-f
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## 🏆 Achievements
+## 🔥 Current Projects
 
-- 🥇 Founded **Scripty**, an automation platform with 50+ waitlist signups in just 2 weeks
-- 🌟 Selected as 1 of 75 students globally for University of Waterloo's Catalyst Summer Program
-- 🏆 3rd place winner at Hack the Ridge (200+ participants) - Machine learning physiotherapy platform
-- 🏅 Best Beginner Hack at Ignition Hacks (400+ participants) - Personalized nutrition management app
-- 🌎 DECA ICDC International Finalist - Representing Ontario at the world stage
+<a href="https://github.com/chrisma71/scripty">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=scripty&theme=dark" />
+</a>
+<a href="https://github.com/chrisma71/physio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=physio&theme=dark" />
+</a>
+<a href="https://github.com/chrisma71/myFridge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=myFridge&theme=dark" />
+</a>
 
-## 📊 GitHub Stats
+<br />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chrisma71&show_icons=true&theme=radical" />
+## 🏗️ What I'm working on
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisma71&layout=compact&theme=radical" />
+- Building [Scripty](https://scripty.me) - An automation platform that helps people interact with their computers using natural language
+- Contributing to open-source projects
+- Learning AI/ML frameworks and advanced web development techniques
 
-## 🚀 Recent Projects
+## 📈 GitHub Contributions
 
-[![Phys.io](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=physio&theme=dark)](https://github.com/chrisma71/physio)
-[![myFridge](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=myFridge&theme=dark)](https://github.com/chrisma71/myFridge)
-[![Scripty](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=scripty&theme=dark)](https://github.com/chrisma71/scripty)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisma71&theme=radical" />
+
+## 📫 Connect with me
+- LinkedIn: [Christopher Ma](https://www.linkedin.com/in/christopher-ma-3b35aa300/)
+- Devpost: [chris-pengfei-ma](https://devpost.com/chris-pengfei-ma?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+![Profile views](https://komarev.com/ghpvc/?username=chrisma71&color=blueviolet)
