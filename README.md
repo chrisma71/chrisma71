@@ -50,8 +50,4 @@ I'm a high school student passionate about technology and entrepreneurship. Co-f
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisma71&theme=radical" />
 
-## 📫 Connect with me
-- LinkedIn: [Christopher Ma](https://www.linkedin.com/in/christopher-ma-3b35aa300/)
-- Devpost: [chris-pengfei-ma](https://devpost.com/chris-pengfei-ma?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
 ![Profile views](https://komarev.com/ghpvc/?username=chrisma71&color=blueviolet)
