@@ -41,9 +41,3 @@ I'm a high school student passionate about technology and entrepreneurship. Co-f
 [![Phys.io](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=physio&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/physio)
 [![myFridge](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=myFridge&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/myFridge)
 [![Scripty](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=scripty&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/scripty)
-
-## 📫 Let's Connect!
-
-Feel free to reach out to me at chris.pengfei.ma@gmail.com or connect with me on LinkedIn!
-
-<!-- You can add more sections like Education, Experience, etc. as needed -->
