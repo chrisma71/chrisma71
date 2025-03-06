@@ -32,9 +32,9 @@ I'm a high school student passionate about technology and entrepreneurship. Co-f
 
 ## 📊 GitHub Stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chrisma71&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisma71&layout=compact&theme=radical" />
 
 ## 🚀 Recent Projects
 
