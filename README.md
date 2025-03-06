@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Christopher Ma
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/your-devpost)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/christopher-ma-3b35aa300/))
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)]([https://devpost.com/your-devpost](https://devpost.com/chris-pengfei-ma?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
 
 ## 💻 Full Stack Developer | 🚀 Startup Founder | 🏆 Hackathon Winner
 
@@ -38,6 +37,6 @@ I'm a high school student passionate about technology and entrepreneurship. Co-f
 
 ## 🚀 Recent Projects
 
-[![Phys.io](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=physio&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/physio)
-[![myFridge](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=myFridge&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/myFridge)
-[![Scripty](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=scripty&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/scripty)
+[![Phys.io](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=physio&theme=dark)](https://github.com/chrisma71/physio)
+[![myFridge](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=myFridge&theme=dark)](https://github.com/chrisma71/myFridge)
+[![Scripty](https://github-readme-stats.vercel.app/api/pin/?username=chrisma71&repo=scripty&theme=dark)](https://github.com/chrisma71/scripty)
