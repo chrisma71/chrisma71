@@ -26,12 +26,6 @@ I'm a high school student passionate about technology and entrepreneurship. Co-f
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## 🏗️ What I'm working on
-
-- Building [Scripty](https://scripty.me) - An automation platform that helps people interact with their computers using natural language
-- Contributing to open-source projects
-- Learning AI/ML frameworks and advanced web development techniques
-
 ## 📈 GitHub Contributions
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisma71&theme=radical" />
