@@ -5,7 +5,7 @@
 
 ## 💻 Full Stack Developer | 🚀 Startup Founder
 
-I'm a high school student passionate about technology and entrepreneurship. Co-founder of [Scripty](https://scripty.me), an automation platform leveraging NLP to revolutionize how people interact with computers.
+I'm a student passionate about technology and entrepreneurship. Co-founder of [Scripty](https://scripty.me), an automation platform leveraging NLP to revolutionize how people interact with computers.
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrisma71&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
