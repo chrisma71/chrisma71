@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Christopher Ma 👋</h1>
-<p align="center"><em>17 · UofT CS '31 · chasing asymmetric outcomes</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-ma-3b35aa300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
@@ -26,12 +25,6 @@
 > Have conviction in yourself, be willing to fail, chase asymmetric outcomes — you'll be rewarded eventually.
 
 ---
-
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chrisma71&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisma71&layout=compact&langs_count=6&theme=radical"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisma71&theme=radical" />
   <img src="https://komarev.com/ghpvc/?username=chrisma71&color=blueviolet" />
 </p>
