@@ -1,31 +1,37 @@
-# 👋 Hi there, I'm Christopher Ma 
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-ma-3b35aa300/)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/chris-pengfei-ma?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+<h1 align="center">Hi, I'm Christopher Ma 👋</h1>
+<p align="center"><em>17 · UofT CS '31 · chasing asymmetric outcomes</em></p>
 
-## 💻 Full Stack Developer 
+<p align="center">
+  <a href="https://www.linkedin.com/in/christopher-ma-3b35aa300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://devpost.com/chris-pengfei-ma"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white"></a>
+  <a href="https://x.com/christofu_ma"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="mailto:chris.pengfei.ma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrisma71&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisma71&layout=compact&langs_count=6&theme=radical"/>
-</div>
+---
 
-## 🛠️ Tech Stack
+### Past
+- **[Geotab](https://www.geotab.com/)** — youngest intern in company history; built apps used by 5M+ drivers, played with their $50K humanoid robots on the side
+- **[SimCare AI (YC S24)](https://simcare.ai/)** — flown to SF, worked 996; shipped code demoed for 6+ fig deals with UPenn & Vanderbilt
+- **Contract web dev & designer** — built client sites, 4 figs
+- **Cofounded Scripty** — task automation platform, 7M+ views across socials
+- 🏆 1st place, world's largest high school business competition (1 of 500,000)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### Projects
+- **[SimTeach](https://github.com/chrisma71/SimTeach)** — AI student simulations w/ real-time video & dynamic personas for teacher training · 🏆 Best Use of AI @ PennApps XXVI
+- **Networking app** — face-recognizes strangers, generates conversation starters · 🏆 Best Use of AI @ JAMHacks9
+- **Quick, Draw! CNN** — sketch-recognition neural net trained on Google's dataset
+- Former Director @ **[Ignition Hacks](https://ignitionhacks.org/)** — 600+ hackers, $16K+ in prizes
 
-## 📈 GitHub Contributions
+> Have conviction in yourself, be willing to fail, chase asymmetric outcomes — you'll be rewarded eventually.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisma71&theme=radical" />
+---
 
-![Profile views](https://komarev.com/ghpvc/?username=chrisma71&color=blueviolet)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chrisma71&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisma71&layout=compact&langs_count=6&theme=radical"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisma71&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=chrisma71&color=blueviolet" />
+</p>
