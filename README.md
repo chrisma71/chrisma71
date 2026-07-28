@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/christopher-ma-3b35aa300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://devpost.com/chris-pengfei-ma"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white"></a>
   <a href="https://x.com/christofu_ma"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="mailto:chris.pengfei.ma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
